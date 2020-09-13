@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "First Post",
+    "description": "This is my first post",
+    "numberOfPosts": 0
+  },
+  {
+    "id": 2,
+    "name": "Second Post",
+    "description": "This is my second post",
+    "numberOfPosts": 0
+  },
+  {
+    "id": 3,
+    "name": "Second Post",
+    "description": "This is my second post",
+    "numberOfPosts": 0
+  },
+  {
+    "id": 4,
+    "name": "Third Subreddit",
+    "description": "This is my third subreddit",
+    "numberOfPosts": 0
+  },
+  {
+    "id": 5,
+    "name": "Fifth Subreddit",
+    "description": "This is my fifth subreddit",
+    "numberOfPosts": 0
+  }
+]

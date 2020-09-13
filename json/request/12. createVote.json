@@ -1,0 +1,6 @@
+HTTP Method: POST
+http://localhost:8080/api/votes/
+{
+  "voteType":"UPVOTE",
+  "postId":"1"
+}

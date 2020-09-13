@@ -1,0 +1,2 @@
+Used https://mailtrap.io/ for fake smptp mail server.Mailtrap is a dedicated playground for your email tests. Use it before your messages are perfect enough for reaching real inboxes
+Used mapstruct (https://mapstruct.org/). MapStruct is a code generator that greatly simplifies the implementation of mappings between Java bean types based on a convention over configuration approach.

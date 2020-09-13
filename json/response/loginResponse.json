@@ -1,0 +1,14 @@
+Http Status: 200
+{
+"authenticationToken": "eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJ2aXNod2FzNCJ9.XIwuWsHOvO3qIr5Pmg6EruHg9qnfwk5_7FyuuuZZO8Dcv-o6HN9rPQ8fIj0pB001x6uokfthoLu9HEX2mF6MlhtKSrVyyDozT0QFpfrsI-TX5IfXAIhzSOAhUtF6VsG6COjMvHXH_8JvaWZELhfiL8k8X5bIPOGaw9IfsTu6AqVri3jNUB-Ij3DdcyAYKXjAcwdTLwOO41LLBTkfOPePncYvYzv9Zddkej8Zy-eJIDA-XWeNTAwraGIoQpq_xAY_g6KBwtQRAiVmuH24a_Tzyf_Lpj4ADiNYhhKSqAWgY1mfilNClvlg0lWNInyEpJ-dAxTEpv69BWCdGUj_OU4hJA",
+"username": "vishwas4"
+}
+
+New Response
+
+{
+"authenticationToken": "eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJ2aXNod2FzMSIsImV4cCI6MTU5NzQyNjQ1OH0.YQCPWp_lKxzuYSMTVH-Id4zwtljIpAT5OO0aPqGjgvpRjUFU1ZJUHPGQsGu3EXJ6qPFHcoOX0a5D-b8BVOV7oaZ-5DSqky9rbnw1zZ8lAT-iYTWDTRfevk9y1o-RK2wwjCMQ4GoT1aV0xzNA352ydYvTIVGxHXr5kjAw_A2rhi3Tx_sZ0DONS0x4b7dN8fkBHRXt2sworHp8dVfoQY7AU198QAkHP-M3fLoRqjG0tDk1LlBW_DxGcpvEgDNpL_UXZsDEjfXbQaDAQUsKVwiniM1rJq8MN2AbW1t2a_zWhmUix8Jru3KcOILBR-IQ25919svw4v-drySxZw66WXvAog",
+"username": "vishwas1",
+"refreshToken": "ed7b238d-3bf5-4cde-833c-44a0cf9b8366",
+"expiresAt": "2020-08-14T17:34:18.751Z"
+}

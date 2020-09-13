@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "postName": "First Post",
+        "url": "https://google.com",
+        "description": "This is my first post",
+        "userName": "vishwas1",
+        "subredditName": "First Subreddit",
+        "upVote": false,
+        "downVote": false,
+        "voteCount": 1,
+        "commentCount": 1,
+        "duration": "20 minutes ago"
+    }
+]

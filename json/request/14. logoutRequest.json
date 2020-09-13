@@ -1,0 +1,7 @@
+Http Method: POST
+http://localhost:8080/api/auth/logout
+
+{
+"refreshToken":"c9c4fb12-55f9-4b59-8741-5c0919039d37",
+"username":"vishwas1"
+}

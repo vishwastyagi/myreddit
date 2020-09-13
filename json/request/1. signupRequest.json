@@ -1,0 +1,7 @@
+Http Method: POST
+http://localhost:8080/api/auth/signup
+{
+"username":"vishwas4",
+"password":"123456",
+"email":"hearvishwas@gmail.com"
+}

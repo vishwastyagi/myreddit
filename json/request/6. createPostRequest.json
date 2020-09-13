@@ -1,0 +1,8 @@
+HTTP Method: POST
+http://localhost:8080/api/posts
+{
+"subredditName":"Fifth Subreddit",
+"postName":"Second Post",
+"url":"https://google.com",
+"description":"This is my second post"
+}

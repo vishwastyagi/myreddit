@@ -1,0 +1,6 @@
+HTTP Method: POST
+http://localhost:8080/api/subreddit
+{
+"name":"Fifth Subreddit",
+"description":"This is my fifth subreddit"
+}
